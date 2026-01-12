@@ -4,7 +4,7 @@ Pri pokretanju potrebni su svi dependencies i libraries u folder-u aplikacije.
 
 ------------------------------------------------------------------------------
 
-U main menu imaju 2 botuna Start Game za pokretanje igre i Exit Game za gasenje iste.
+Main menu ima 2 botuna, Start Game za pokretanje igre i Exit Game za gasenje iste.
 Nakon pritiska na Start Game otvara se Character Select ekran gdje se biraju likovi za nas team.
 U sredini teama mora biti Dantus.
 DPSov ability je raditi vise damage-a, Healerov ability je healati nekoga, Amplifierov ability je pojacati neciji napad i Shielderov ability je dati shield nekome.
