@@ -2,7 +2,7 @@
 #include "character.h"
 
 GluttonyEnemy::GluttonyEnemy()
-    : Enemy("Gluttony", 800, 150), healOnAttack(5)
+    : Enemy("Gluttony", 250, 30), healOnAttack(5)
 {
 }
 
@@ -37,3 +37,4 @@ void GluttonyEnemy::performAbility(QVector<Character*> team)
     if (health > maxHealth) health = maxHealth;
     emit healthChanged(health);
 }
+
