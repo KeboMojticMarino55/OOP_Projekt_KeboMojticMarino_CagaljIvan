@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/AbilityImg.png</file>
+        <file>img/NormalAtkImg.png</file>
+        <file>img/sundaypfp2.png</file>
+        <file>img/tribbiepfp.png</file>
+        <file>img/UltimateImg.png</file>
+        <file>img/heroimg1.png</file>
+        <file>img/heroimg2.png</file>
+        <file>img/heroimg3.png</file>
+        <file>img/heroimg4.png</file>
+        <file>img/heroimg5.png</file>
+        <file>img/envyimg.png</file>
+        <file>img/gluttonyimg.png</file>
+        <file>img/greedimg.png</file>
+        <file>img/lustimg.png</file>
+        <file>img/prideimg.png</file>
+        <file>img/slothimg.png</file>
+        <file>img/wrathimg.png</file>
+        <file>img/battlescreenbackgroundimg.jpg</file>
+        <file>img/battlescreenbackgroundimg2.jpg</file>
+    </qresource>
+</RCC>
